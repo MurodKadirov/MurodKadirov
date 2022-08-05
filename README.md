@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MurodKadirov , I am a FrontEnd developer
+- 👀 I’m interested in writing code
+- 📝 I know HTML CSS Bootstrap Git GitHub JavaScript jQuary SASS technologies
+- 🌱 I’m currently learning backend
+- 💞️ I’m looking to collaborate on IT
+- 📫 How to reach me / +998 91 100 32 05
